@@ -1,6 +1,17 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## Version 0.3.4-RC1
+
+- Release date: January 22, 2021
+
+### Changed
+- Adds support for Arduino CLI
+- Autogenerate c_cpp_properties.json with all complier arguments and libraries for IntelliSense
+- Detects avialable programmers for selected board to populate programmer list
+- Unifies all build command under single function
+- Fix typos
+
 ## Version 0.3.4
 
 - Release date: November 22, 2020
